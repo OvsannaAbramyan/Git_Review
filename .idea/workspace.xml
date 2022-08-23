@@ -4,19 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a19473dd-e9a3-447a-8429-24970afff168" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Git Review.iml" afterDir="false" />
+    <list default="true" id="a19473dd-e9a3-447a-8429-24970afff168" name="Changes" comment="Added ByeWorld.java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,8 +50,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661265811380</updated>
-      <workItem from="1661265813341" duration="492000" />
+      <workItem from="1661265813341" duration="3690000" />
     </task>
+    <task id="LOCAL-00001" summary="project setup. Added gitignore">
+      <created>1661266976895</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661266976895</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added HelloWorld.java">
+      <created>1661268481811</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661268481811</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added ByeWorld.java">
+      <created>1661268680221</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661268680221</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,5 +89,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="project setup. Added gitignore" />
+    <MESSAGE value="Added HelloWorld.java" />
+    <MESSAGE value="Added ByeWorld.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added ByeWorld.java" />
   </component>
 </project>
